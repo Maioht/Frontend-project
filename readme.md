@@ -4,9 +4,13 @@ Project - (HTML/CSS/javascript)
 Simple web page -> home and blog page.
 
 bootstrap -> https://getbootstrap.com/
+
 nodejs -> https://nodejs.org/en/
+
 express -> https://expressjs.com/
+
 axios -> https://github.com/axios/axios
+
 body-parser -> https://www.npmjs.com/package/body-parser
 
 
